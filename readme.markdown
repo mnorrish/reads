@@ -57,7 +57,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Internals
 
-- :new_moon: [CLR via C#](http://amzn.to/1PhSuHf)
 - :new_moon: [Compilers: Principles, Techniques, and Tools](http://amzn.to/1SD1YCe)
 - :full_moon: [Mastering Regular Expressions](http://amzn.to/1SD0Ezx)
 
@@ -81,12 +80,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 ## AI
 
 - :new_moon: [Programming Collective Intelligence <sub>Building Smart Web 2.0 Applications</sub>](http://amzn.to/1S6WH6L)
-
-## Databases/Search
-
-- :new_moon: [NoSQL Distilled <sub>A Brief Guide to the Emerging World of Polyglot Persistence</sub>](http://amzn.to/1S6W5xP)
-- :new_moon: [Understanding MySQL Internals](http://amzn.to/1S6WT5P)
-- :new_moon: [Elasticsearch <sub>The Definitive Guide</sub>](http://amzn.to/2a71l4z)
 
 ## Product Design
 
@@ -146,6 +139,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Empires of Light <sub>Edison, Tesla, Westinghouse, and the Race to Electrify the World</sub>](http://amzn.to/1S6Vnki)
 - :new_moon: [Ghost in the Wires <sub>My Adventures as the World's Most Wanted Hacker</sub>](http://amzn.to/1SCYYGd)
 - :new_moon: [Masters of Doom <sub>How Two Guys Created an Empire and Transformed Pop Culture</sub>](http://amzn.to/1PMISXI)
+- :full_moon: [Muhammad Ali - The Soul of a Butterfly <sub>Reflections on Life's Journey</sub>](http://amzn.to/2cg30VA)
 - :new_moon: [Nikola Tesla: My Inventions](http://amzn.to/1S6YYip)
 - :new_moon: [Outliers <sub>The Story of Success</sub>](http://amzn.to/1SCZ0hb)
 - :new_moon: [Surely You're Joking, Mr. Feynman! <sub>Adventures of a Curious Character</sub>](http://amzn.to/1S6XwfU)
