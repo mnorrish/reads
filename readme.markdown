@@ -17,7 +17,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Designing for Performance <sub>Weighing Aesthetics and Speed</sub>](http://amzn.to/1SCZ0hj)
 - :new_moon: [Even Faster Web Sites <sub>Performance Best Practices for Web Developers</sub>](http://amzn.to/1SCYY9b)
 - :new_moon: [High Performance Browser Networking <sub>What every web developer should know about networking and web performance</sub>](http://amzn.to/1S6Vo7O)
-- :new_moon: [High Performance JavaScript <sub>Build Faster Web Application Interfaces</sub>](http://amzn.to/1PMIWXs)
+- :full_moon: [High Performance JavaScript <sub>Build Faster Web Application Interfaces</sub>](http://amzn.to/1PMIWXs)
 - :new_moon: [High Performance Web Sites <sub>Essential Knowledge for Front-End Engineers</sub>](http://amzn.to/1PMIVCQ)
 
 ## User Experience/Interaction Design/Usability
@@ -65,7 +65,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Getting Real <sub>The Smarter, Faster, Easier Way to Build a Successful Web Application</sub>](http://amzn.to/1SD1FHK)
 - :new_moon: [Refactoring: Improving the Design of Existing Code](http://amzn.to/1S6Z49J)
 - :new_moon: [The Clean Coder <sub>A Code of Conduct for Professional Programmers</sub>](http://amzn.to/1S6YGrH)
-- :new_moon: [The Pragmatic Programmer <sub>From Journeyman to Master</sub>](http://amzn.to/1S6WZdR)
+- :waxing_crescent_moon: [The Pragmatic Programmer <sub>From Journeyman to Master</sub>](http://amzn.to/1S6WZdR)
 
 ## Algorithms
 
