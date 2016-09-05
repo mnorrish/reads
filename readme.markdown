@@ -40,6 +40,10 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [The Accidental Masterpiece <sub>On the Art of Life and Vice Versa</sub>](http://amzn.to/1SCYXSE)
 - :new_moon: [What Are You Looking At? <sub>The Surprising, Shocking, and Sometimes Strange Story of 150 Years of Modern Art</sub>](http://amzn.to/1SCYY90)
 
+## Typography
+
+- :star2: [Thinking with Type <sub>2nd revised and expanded edition: A Critical Guide for Designers, Writers, Editors, & Students</sub>](http://amzn.to/2bXJ5IP)
+
 ## Languages
 
 - :new_moon: [Advanced Programming in the UNIX Environment](http://amzn.to/1S6VLiD)
