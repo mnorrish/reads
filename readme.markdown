@@ -25,7 +25,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [About Face <sub>The Essentials of Interaction Design _(3rd edition)_</sub>](http://amzn.to/1SD0KXQ)
 - :new_moon: [Defensive Design for the Web <sub>How to improve error messages, help, forms, and other crisis points</sub>](http://amzn.to/1S6XMeX)
 - :new_moon: [Don't Make Me Think <sub>A Common Sense Approach to Web Usability</sub>](http://amzn.to/1SD00SB)
-- :new_moon: [Lean UX <sub>Applying Lean Principles to Improve User Experience</sub>](http://amzn.to/1S6V4WA)
 - :new_moon: [The Design of Everyday Things](http://amzn.to/1SD0MyZ)
 - :new_moon: [The Inmates Are Running the Asylum <sub>Why High Tech Products Drive Us Crazy and How to Restore the Sanity</sub>](http://amzn.to/1S6X80P)
 
@@ -52,7 +51,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :star2: [JavaScript: The Good Parts](http://amzn.to/1SD1gVz)
 - :waxing_crescent_moon: [Learn You a Haskell for Great Good! <sub>A Beginner's Guide</sub>](http://amzn.to/1SD1koq)
 - :new_moon: [Learning Python](http://amzn.to/1S6XiFt)
-- :new_moon: [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
 - :first_quarter_moon: [Seven Languages in Seven Weeks <sub>A Pragmatic Guide to Learning Programming Languages</sub>](http://amzn.to/2bTolF3)
 - :new_moon: [The Art of UNIX Programming](http://amzn.to/1PMISXS)
 
@@ -63,7 +61,6 @@ If you have book recommendations for me, please [create a Pull Request](https://
 
 ## Development Philosophy
 
-- :new_moon: [Becoming a Technical Leader <sub>An Organic Problem-Solving Approach</sub>](http://amzn.to/1S6XLHD)
 - :new_moon: [Clean Code <sub>A Handbook of Agile Software Craftsmanship</sub>](http://amzn.to/1S6YFnH)
 - :new_moon: [Domain-Driven Design <sub>Tackling Complexity in the Heart of Software</sub>](http://amzn.to/1S6WwIL)
 - :new_moon: [Getting Real <sub>The Smarter, Faster, Easier Way to Build a Successful Web Application</sub>](http://amzn.to/1SD1FHK)
@@ -147,13 +144,3 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [The Cathedral & the Bazaar <sub>Musings on Linux and Open Source by an Accidental Revolutionary</sub>](http://amzn.to/1SCYY93)
 - :new_moon: [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](http://amzn.to/1PMIWqB)
 - :new_moon: [Weaving the Web <sub>The Original Design and Ultimate Destiny of the World Wide Web</sub>](http://amzn.to/1PMITel)
-
-## Comics/Casual Reads
-
-- :new_moon: [xkcd: volume 0](http://amzn.to/1SD1PyG)
-- :new_moon: [Thing Explainer <sub>Complicated Stuff in Simple Words</sub>](http://amzn.to/1PMIWqm)
-
-## Novels
-
-- :new_moon: [A Confederacy of Dunces](http://amzn.to/1SCZ0xz)
-- :new_moon: [Animal Farm and 1984](http://amzn.to/1SCYYpr)
