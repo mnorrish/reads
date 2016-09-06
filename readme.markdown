@@ -53,6 +53,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :waxing_crescent_moon: [Learn You a Haskell for Great Good! <sub>A Beginner's Guide</sub>](http://amzn.to/1SD1koq)
 - :new_moon: [Learning Python](http://amzn.to/1S6XiFt)
 - :new_moon: [Programming Elixir <sub>`Functional |> Concurrent |> Pragmatic |> Fun`</sub>](http://amzn.to/1PMIVmv)
+- :first_quarter_moon: [Seven Languages in Seven Weeks <sub>A Pragmatic Guide to Learning Programming Languages</sub>](http://amzn.to/2bTolF3)
 - :new_moon: [The Art of UNIX Programming](http://amzn.to/1PMISXS)
 
 ## Internals
