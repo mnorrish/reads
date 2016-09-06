@@ -50,6 +50,7 @@ If you have book recommendations for me, please [create a Pull Request](https://
 - :new_moon: [Eloquent JavaScript <sub>A Modern Introduction to Programming</sub>](http://amzn.to/1S6VxrX)
 - :star2: [JavaScript: The Good Parts](http://amzn.to/1SD1gVz)
 - :waxing_crescent_moon: [Learn You a Haskell for Great Good! <sub>A Beginner's Guide</sub>](http://amzn.to/1SD1koq)
+- :first_quarter_moon: [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - :new_moon: [Learning Python](http://amzn.to/1S6XiFt)
 - :first_quarter_moon: [Seven Languages in Seven Weeks <sub>A Pragmatic Guide to Learning Programming Languages</sub>](http://amzn.to/2bTolF3)
 - :new_moon: [The Art of UNIX Programming](http://amzn.to/1PMISXS)
